@@ -1,0 +1,59 @@
+[33mcommit b44f1868dc67af0323e833ce0f227739fc9d44f2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Sameer Khan <sam123dbz@gmail.com>
+Date:   Sat Mar 12 21:04:54 2022 +0500
+
+    Added new recipe
+
+[33mcommit 9581d71e6211843894d96e4876a4073fb1fa08a0[m
+Author: Sameer Khan <sam123dbz@gmail.com>
+Date:   Sat Mar 12 20:29:28 2022 +0500
+
+    Fixed image not showing
+
+[33mcommit dd25d249977ca0e9bef0ad0aaad0648403d18aab[m
+Author: Sameer Khan <sam123dbz@gmail.com>
+Date:   Sat Mar 12 20:29:05 2022 +0500
+
+    Fixed font
+
+[33mcommit 00f5cd688c5e4457f6d24b2c7ae67a7491e278bb[m
+Author: Sameer Khan <sam123dbz@gmail.com>
+Date:   Sat Mar 12 20:18:46 2022 +0500
+
+    Added the DOCTYPE declaration
+
+[33mcommit db656d2641233f901b473677f81a9122eab9c532[m
+Author: Sameer Khan <sam123dbz@gmail.com>
+Date:   Sat Mar 12 20:10:01 2022 +0500
+
+    Completed Icecream Recipe
+
+[33mcommit 415f5ecb1060c629eaadb15d9209816dbd140769[m
+Author: Sameer Khan <sam123dbz@gmail.com>
+Date:   Sat Mar 12 19:58:16 2022 +0500
+
+    Added headings and description
+
+[33mcommit e425e9f923ad7fbab22d805e5f297a3e226d6a5e[m
+Author: Sameer Khan <sam123dbz@gmail.com>
+Date:   Sat Mar 12 19:56:52 2022 +0500
+
+    Added Icecream image
+
+[33mcommit 968522312481f28204b9535e8b462d505e96e206[m
+Author: Sameer Khan <sam123dbz@gmail.com>
+Date:   Sat Mar 12 19:41:08 2022 +0500
+
+    Added recipes page
+
+[33mcommit 9197621e61a4f7901c7108a59de8107a4e135950[m
+Author: Sameer Khan <sam123dbz@gmail.com>
+Date:   Sat Mar 12 19:40:31 2022 +0500
+
+    Added index.html
+
+[33mcommit a9cc927a37e14370557a7bcf17a404076032e6a6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sameer Khan <100930336+Aflyingbed@users.noreply.github.com>
+Date:   Sat Mar 12 19:26:13 2022 +0500
+
+    Initial commit
